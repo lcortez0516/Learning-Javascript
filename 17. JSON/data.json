@@ -1,0 +1,11 @@
+{
+  "name": "Lester Cortez",
+  "age": 20,
+  "email": "lc@gmail.com",
+  "isSubscribed": true,
+  "hobbies": ["Reading", "Running", "Cooking"],
+  "address": {
+    "city": "New York",
+    "goodlooking": true
+  }
+}
