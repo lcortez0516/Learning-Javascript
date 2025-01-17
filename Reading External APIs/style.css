@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin-inline: auto;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.card {
+  padding: 20px;
+  border: 2px solid teal;
+  border-radius: 10px;
+}
+
+.card h1 {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
