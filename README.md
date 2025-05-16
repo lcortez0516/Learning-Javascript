@@ -25,54 +25,9 @@ The goal of this repository is to:
 
 ## 📂 Directory Structure
 
-This repo is organized by **JavaScript topics** and **concepts**. Each folder contains related exercises or challenges for a specific topic.
+This repo is organized by **JavaScript topics** and **concepts**.
 
-Topics
 
-├── basics
-├── variables
-├── handling numbers
-├── boolean
-├── comparison operators
-├── manipulating strings
-├── type conversion
-└── conditional statements
-├── switch statements
-├── loops
-├── logical operators
-├── arrays
-├── array methods
-├── objects
-├── functions
-└── methods
-├── json
-├── date and time
-├── interval and timeout
-├── object literals
-├── default parameters
-├── spread and rest operator
-├── destructuring
-└── ternary operator
-├── for in loop
-├── for of loop
-├── foreach method
-├── map filter find
-├── reduce
-├── map data structure
-├── sets data structure
-├── accessing dom elements
-├── manipulating texts
-├── managing classes
-├── working with attributes
-├── navigating siblings
-├── modifying styles
-├── creating and removing dom elements
-└── event handling
-├── async
-├── promises
-├── reading external apis
-├── reading json files
-├── reading textual data
 
 
 
